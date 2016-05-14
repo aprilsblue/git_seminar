@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'yyy/index'
+
 <<<<<<< HEAD
   get 'jin0u/index'
 
