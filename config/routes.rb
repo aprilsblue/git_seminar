@@ -1,11 +1,8 @@
 Rails.application.routes.draw do
   get 'yyy/index'
 
-<<<<<<< HEAD
   get 'jin0u/index'
-
-=======
->>>>>>> 6bd58a8bf9d878d890a034050a019532a2507b63
+  
   devise_for :users
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
